@@ -9,6 +9,6 @@ I Felt, that it is time to give green light for public use of this anonymizer.
 You need a go compiler (i tested go 1.5 but later versions should just work as well).
 
 ```sh
-go get github.com/maxymania/sshproxy/sotpd
+go get github.com/mad-day/sshproxy/sotpd
 ```
 
